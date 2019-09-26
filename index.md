@@ -1,4 +1,4 @@
 ﻿# iCortex
- ## love could calm mind
+## Love could Calm Mind
 
 

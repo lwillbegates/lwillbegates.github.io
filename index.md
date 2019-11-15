@@ -3,6 +3,7 @@ layout: default
 ---
 ![web](https://lwillbegates.github.io/images/web2.png)
 
+* * *
 
 ## New yard of our office
 

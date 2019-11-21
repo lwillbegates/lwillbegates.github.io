@@ -8,8 +8,6 @@ layout: default
 ## New yard of our office
 
 
-![Branching](https://lwillbegates.github.io/images/envr1_1.jpg)
-![Web](https://lwillbegates.github.io/images/envr1_2.jpg)
 ![Branching](https://lwillbegates.github.io/images/envr1_2.jpg)
 ![Branching](https://lwillbegates.github.io/images/envr1_3.jpg)
 ![Branching](https://lwillbegates.github.io/images/envr1_4.jpg)

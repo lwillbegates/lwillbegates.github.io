@@ -8,7 +8,7 @@ layout: default
 ## New office
 
 
-![Branching](https://lwillbegates.github.io/images/office1_1.jpg)
+![Branching](https://lwillbegates.github.io/images/office1_1.png)
 
 * * *
 

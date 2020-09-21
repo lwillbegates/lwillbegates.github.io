@@ -7,7 +7,7 @@ layout: default
 ## Team 2020
 
 
-![web](https://lwillbegates.github.io/images/team1.png)
+![Branching](https://lwillbegates.github.io/images/team1.png)
 
 * * *
 

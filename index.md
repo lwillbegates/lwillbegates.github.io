@@ -4,6 +4,13 @@ layout: default
 
 * * *
 
+## Some Work
+
+
+![Branching](https://lwillbegates.github.io/images/work1.png)
+![Branching](https://lwillbegates.github.io/images/work2.png)
+
+* * *
 ## Team 2020
 
 
@@ -15,6 +22,7 @@ layout: default
 
 
 ![Branching](https://lwillbegates.github.io/images/office1_1.png)
+![Branching](https://lwillbegates.github.io/images/office1_2.jpg)
 
 * * *
 

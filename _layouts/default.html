@@ -14,14 +14,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a style="display:block;text-align:center;">{{ site.title1 | default: site.github.repository_name }}</a></h1>
-		<h1><a style="display:block;text-align:center;">{{ site.title2 | default: site.github.repository_name }}</a></h1>
+        <h1><a style="display:block;text-align:center;">{{ site.title1 }}</a></h1>
+		<h1><style="display:block;text-align:center;">{{ site.title2 }}</h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p><a style="display:block;text-align:center;">{{ site.description1 | default: site.github.project_tagline }}<br>{{ site.description2 | default: site.github.project_tagline }}</a></p>
+        <p><a style="display:block;text-align:center;">{{ site.description1 }}<br>{{ site.description2 }}</a></p>
 		
 
         {% if site.github.is_project_page %}

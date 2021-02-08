@@ -16,12 +16,14 @@
       <header>
         <h1><a style="display:block;text-align:center;">{{ site.title1 }}</a></h1>
 		<h1><a style="display:block;text-align:center;">{{ site.title2 }}</a></h1>
+		<hr>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+		<hr>
 
-        <p><style="display:block;text-align:center;">{{ site.description1 }}<br>{{ site.description2 }}</p>
+        <p style="display:block;text-align:center;">{{ site.description1 }}<br>{{ site.description2 }}</p>
 		
 
         {% if site.github.is_project_page %}

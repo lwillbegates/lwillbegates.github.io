@@ -5,8 +5,7 @@ layout: default
 * * *
 
 ## Forwarding 2021
-<span style="display:block;text-align:center;font-size:18px;color:#267CB9;"> 爱可泰思iCortex团队
-刚刚经历了自己发芽的第一年<br>我们带着使命<br>创新脑功能的无创检查和无创干预<br><br>两项脑功能成像的基石级技术研发顺利<br>一项极具潜力的创新干预技术形成<br>三项发明专利等待授权<br><br>团队有信心新的一年不断精进<br>基础攻坚与商业落地并进<br>期待与朋友们携手！ </span>
+<span style="display:block;text-align:center;font-size:18px;color:#267CB9;"> 爱可泰思iCortex团队<br>刚刚经历了自己发芽的第一年<br>我们带着使命<br>创新脑功能的无创检查和无创干预<br><br>两项脑功能成像的基石级技术研发顺利<br>一项极具潜力的创新干预技术形成<br>三项发明专利等待授权<br><br>团队有信心新的一年不断精进<br>基础攻坚与商业落地并进<br>期待与朋友们携手！ </span>
 
 
 * * *

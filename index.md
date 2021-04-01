@@ -7,8 +7,8 @@ layout: default
 ## art of technology
 
 
-<video id="video" controls="" preload="none" poster="https://lwillbegates.github.io/images/art1_moment.jpg">
-  <source id="mp4" src="https://lwillbegates.github.io/images/art1.mp4" type="video/mp4">
+<video preload autoplay loop poster="https://lwillbegates.github.io/images/art1_moment.jpg">
+  <source src="https://lwillbegates.github.io/images/art1.mp4" type="video/mp4">
 </video>
 
 

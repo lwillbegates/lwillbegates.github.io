@@ -4,7 +4,7 @@ layout: default
 
 * * *
 
-## art of technology
+## Art of technology
 
 
 <video preload autoplay loop poster="https://lwillbegates.github.io/images/art1_moment.jpg">

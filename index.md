@@ -7,10 +7,7 @@ layout: default
 ## Art emerged during developing
 
 ![](https://lwillbegates.github.io/images/art1.mp4)
-[comment]{:height="60%" width="60%"}
-[comment]<video height="640" preload autoplay loop poster="https://lwillbegates.github.io/images/art1_moment.jpg">
-[comment]<source src="https://lwillbegates.github.io/images/art1.mp4" type="video/mp4">
-[comment]</video>
+
 
 * * *
 

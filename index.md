@@ -7,7 +7,7 @@ layout: default
 ## Art emerged during developing
 
 
-<video controls preload autoplay loop poster="https://lwillbegates.github.io/images/art1_moment.jpg">
+<video height="640" preload autoplay loop poster="https://lwillbegates.github.io/images/art1_moment.jpg">
   <source src="https://lwillbegates.github.io/images/art1.mp4" type="video/mp4">
 </video>
 

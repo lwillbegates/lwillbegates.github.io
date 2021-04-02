@@ -7,7 +7,9 @@ layout: default
 ## Art emerged during developing
 
 
-<video autoplay="" loop="loop" muted="muted" preload="metadata"><source src="https://lwillbegates.github.io/images/art1.mp4" type="video/mp4"></video>
+<video autoplay="" loop="loop" muted="muted" preload="metadata" height="640">
+	<source src="https://lwillbegates.github.io/images/art1.mp4" type="video/mp4">
+</video>
 
 * * *
 

@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+* * *
+
+## Milestone
+
+![Branching](https://lwillbegates.github.io/images/miozNB.png)
 
 * * *
 
